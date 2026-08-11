@@ -52,6 +52,11 @@ B.Sc. Mechatronics Engineering, Universidad EIA
 
 MEng. Mechatronics, Robotics and Automation Engineering, Universidad Pontificia Bolivariana
 
+### Thesis Supervisor
+
+**Prof. David Rozo Osorio**  
+Universidad EIA
+
 
 
 
