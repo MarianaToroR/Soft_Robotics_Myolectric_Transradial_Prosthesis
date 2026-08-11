@@ -46,16 +46,10 @@ B.Sc. Mechatronics Engineering, Universidad EIA
 **María Alejandra Mejía Ramírez**  
 B.Sc. Mechatronics Engineering, Universidad EIA
 
-## Thesis Supervisor
-
-**Prof. David Rozo Osorio**
-
-MEng. Mechatronics, Robotics and Automation Engineering, Universidad Pontificia Bolivariana
-
 ### Thesis Supervisor
 
 **Prof. David Rozo Osorio**  
-Universidad EIA
+Universidad EIAMEng. Mechatronics, Robotics and Automation Engineering, Universidad Pontificia Bolivariana
 
 
 
